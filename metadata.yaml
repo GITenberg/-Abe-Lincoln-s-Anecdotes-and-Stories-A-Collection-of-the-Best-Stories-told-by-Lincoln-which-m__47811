@@ -1,0 +1,27 @@
+_repo: -Abe-Lincoln-s-Anecdotes-and-Stories-A-Collection-of-the-Best-Stories-told-by-Lincoln-which-m__47811
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+description: ''
+gutenberg_issued: '2014-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: '''Abe'' Lincoln''s Anecdotes and Stories
+
+  A Collection of the Best Stories told by Lincoln which
+
+  made him famous as America''s Best Story Teller'
+url: http://www.gutenberg.org/ebooks/47811
