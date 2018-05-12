@@ -1,4 +1,8 @@
 _repo: -Abe-Lincoln-s-Anecdotes-and-Stories-A-Collection-of-the-Best-Stories-told-by-Lincoln-which-m__47811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47811-h/images/cover.jpg
 creator:
   author:
     agent_name: Lincoln, Abraham
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47811#-Abe-Lincoln-s-Anecdotes-and-Stories-A-Collection-of-the-Best-Stories-told-by-Lincoln-which-m_
 gutenberg_issued: '2014-12-29'
 gutenberg_type: Text
 identifiers:
